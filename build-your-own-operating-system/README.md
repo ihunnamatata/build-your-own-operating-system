@@ -1,10 +1,10 @@
-# 🧠 Build Your Own Operating System (Simulated Kernel)
+# Build Your Own Operating System (Simulated Kernel)
 
 This project simulates a basic operating system kernel using Python. It introduces core OS concepts such as memory management, process scheduling, and system state — all within a round-robin executor.
 
 ---
 
-## 📌 Features
+## Features
 
 - Launch named processes with memory requirements
 - Track system memory and process states
@@ -13,7 +13,7 @@ This project simulates a basic operating system kernel using Python. It introduc
 
 ---
 
-## 🧠 Why It Matters in Healthcare Simulation
+## Why It Matters in Healthcare Simulation
 
 In a live clinical AI setting, your system may need to:
 - Run a simulation model (e.g. FEM brain perfusion)
@@ -27,7 +27,7 @@ Your OS (or mini-OS) needs to:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ```bash
 cd src/
@@ -42,7 +42,7 @@ Output will show:
 
 ---
 
-## 📁 Structure
+## Structure
 
 - `src/main.py`: Simulated kernel logic
 - `assets/`: Add architecture diagrams or screenshots
@@ -50,7 +50,7 @@ Output will show:
 
 ---
 
-## 👩🏾‍⚕️ Author
+## Author
 
 **Ihunna Amugo**  
 DDS Candidate | MHA | MS | REHS | PhD(c) Computational Engineering  
